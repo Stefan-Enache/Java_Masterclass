@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7eb6bf46-6ed6-4f18-84be-2d73fd903022" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Learning Java-Git Project-Stefan Enache.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15. Scanner/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15. Scanner/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15. Scanner/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15. Scanner/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15. Scanner/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15. Scanner/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15. Scanner/Scanner.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15. Scanner/out/production/Scanner/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15. Scanner/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Classes/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Classes/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Classes/Classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Classes/out/production/Classes/com/company/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Classes/out/production/Classes/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Classes/out/production/Classes/com/company/SimpleCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Classes/src/com/company/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Classes/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Classes/src/com/company/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Classes/src/com/company/SimpleCalculator.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1U9W2BA4T2LskS83a3Hw8IzavoB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561574549274" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7eb6bf46-6ed6-4f18-84be-2d73fd903022" name="Default Changelist" comment="" />
+      <created>1560972705125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560972705125</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
